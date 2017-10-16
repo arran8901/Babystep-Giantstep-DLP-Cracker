@@ -1,5 +1,5 @@
 # Babystep-Giantstep-DLP-Cracker
-Shank's babystep-giantstep collision algorithm to solve the Discrete Logarithm Problem
+Shank's babystep-giantstep collision algorithm to solve the Discrete Logarithm Problem (and hence, cryptosystems that rely on the difficulty of the DLP, and the Diffie-Hellman exchange)
 
 The babystep-giantstep algorithm is designed to solve the DLP. It is more efficient than brute-force trial and error, but still quite slow for large numbers.
 
